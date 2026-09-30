@@ -1,6 +1,6 @@
 # anas-codes
 
-Welcome to my very first Git repository! 🚀
+Welcome to my very primary Git repository! 🚀
 
 ## 🎯 About This Repository
 This repository serves as the foundation for my journey into coding and version control. My ultimate goal is to build a strong foundation in software development, track my progress, and showcase the projects I build along the way.
